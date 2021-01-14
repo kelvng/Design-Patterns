@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Volumes/DATA/tmp/phuocnt_MSSV_lab01_ws/.metadata/.plugins/org.eclipse.jdt.core
+2866758530.index
+4071881283.index
+859645315.index

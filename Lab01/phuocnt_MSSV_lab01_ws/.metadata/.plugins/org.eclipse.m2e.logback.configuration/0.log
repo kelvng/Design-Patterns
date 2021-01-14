@@ -1,0 +1,40 @@
+2021-01-13 09:04:55,938 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-13 09:07:27,789 [Worker-6: Creating project "Lab01_00_Singleton"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dp.tdtu:Lab01_00_Singleton:0.0.1-SNAPSHOT @ /Volumes/DATA/tmp/phuocnt_MSSV_lab01_ws/Lab01_00_Singleton/pom.xml.
+2021-01-13 09:07:28,312 [Worker-6: Creating project "Lab01_00_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab01_00_Singleton/src/main/java
+2021-01-13 09:07:28,314 [Worker-6: Creating project "Lab01_00_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lab01_00_Singleton/src/main/resources
+2021-01-13 09:07:28,315 [Worker-6: Creating project "Lab01_00_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab01_00_Singleton/src/test/java
+2021-01-13 09:07:28,315 [Worker-6: Creating project "Lab01_00_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lab01_00_Singleton/src/test/resources
+2021-01-13 09:07:30,070 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:07:30,077 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:07:30,079 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:07:30,080 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:08:01,056 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:08:01,065 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:08:01,067 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:08:01,069 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:08:33,711 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:08:33,712 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:08:33,713 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:08:33,714 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:08:39,134 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:08:39,136 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:08:39,138 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:08:39,139 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:09:35,460 [Worker-15: Creating project "Lab01_01_Singleton"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dp.tdtu:Lab01_01_Singleton:0.0.1-SNAPSHOT @ /Volumes/DATA/tmp/phuocnt_MSSV_lab01_ws/Lab01_01_Singleton/pom.xml.
+2021-01-13 09:09:35,491 [Worker-15: Creating project "Lab01_01_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab01_01_Singleton/src/main/java
+2021-01-13 09:09:35,491 [Worker-15: Creating project "Lab01_01_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lab01_01_Singleton/src/main/resources
+2021-01-13 09:09:35,492 [Worker-15: Creating project "Lab01_01_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab01_01_Singleton/src/test/java
+2021-01-13 09:09:35,492 [Worker-15: Creating project "Lab01_01_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lab01_01_Singleton/src/test/resources
+2021-01-13 09:09:35,702 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:09:35,703 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:09:35,719 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:09:35,721 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:10:01,945 [Worker-21: Creating project "Lab01_02_Singleton"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dp.tdtu:Lab01_02_Singleton:0.0.1-SNAPSHOT @ /Volumes/DATA/tmp/phuocnt_MSSV_lab01_ws/Lab01_02_Singleton/pom.xml.
+2021-01-13 09:10:01,982 [Worker-21: Creating project "Lab01_02_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab01_02_Singleton/src/main/java
+2021-01-13 09:10:01,983 [Worker-21: Creating project "Lab01_02_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lab01_02_Singleton/src/main/resources
+2021-01-13 09:10:01,983 [Worker-21: Creating project "Lab01_02_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab01_02_Singleton/src/test/java
+2021-01-13 09:10:01,984 [Worker-21: Creating project "Lab01_02_Singleton"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lab01_02_Singleton/src/test/resources
+2021-01-13 09:10:02,164 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:10:02,165 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-13 09:10:02,167 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-13 09:10:02,168 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

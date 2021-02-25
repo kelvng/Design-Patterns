@@ -1,8 +1,10 @@
 # Design Pattern
 ## Table of contents
-* [Singleton](https://github.com/nthanhkhang/Design-Pattern/tree/main/1%20-%20Singleton)
-* [Strategy](https://github.com/nthanhkhang/Design-Pattern/tree/main/2%20-%20Strategy)
+* [Singleton Patterns](https://github.com/nthanhkhang/Design-Pattern/tree/main/1%20-%20Singleton)
+* [Strategy Patterns](https://github.com/nthanhkhang/Design-Pattern/tree/main/2%20-%20Strategy)
 * [Template Method Patterns](https://github.com/nthanhkhang/Design-Pattern/tree/main/3%20-%20Template%20Method%20Patterns)
+* [Factory Method Patterns](https://github.com/nthanhkhang/Design-Patterns/tree/main/4%20-%20Factory%20Method)
+
 ## Head First Design Patterns Code Examples
 * [Java](https://github.com/nthanhkhang/Design-Pattern/tree/main/0%20-%20src%20-%20Java/headfirst/designpatterns)
 * [C#](https://github.com/nthanhkhang/Design-Pattern/tree/main/0%20-%20src%20-%20C%23)

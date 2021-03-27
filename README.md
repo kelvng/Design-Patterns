@@ -5,7 +5,7 @@
 * [Template Method Patterns](https://github.com/nthanhkhang/Design-Pattern/tree/main/3%20-%20Template%20Method%20Patterns)
 * [Factory Method Patterns](https://github.com/nthanhkhang/Design-Patterns/tree/main/4%20-%20Factory%20Method)
 * [Command Pattern](https://github.com/nthanhkhang/Design-Patterns/tree/main/6%20-%20Command%20Pattern)
-
+* [Command Pattern (cont.)](https://github.com/nthanhkhang/Design-Patterns/tree/main/7%20-%20Command%20Pattern%20(cont.))
 ## Head First Design Patterns Code Examples
 * [Java](https://github.com/nthanhkhang/Design-Pattern/tree/main/0%20-%20src%20-%20Java/headfirst/designpatterns)
 * [C#](https://github.com/nthanhkhang/Design-Pattern/tree/main/0%20-%20src%20-%20C%23)

@@ -39,6 +39,6 @@ After importing the project, you will be able to run examples by right-clicking 
 * [Refactoring.Guru](https://refactoring.guru/design-patterns)
 * [refactoring_guru](https://github.com/nthanhkhang/Design-Patterns/tree/main/0%20-%20refactoring_guru%20-%20Java)
 
-* ["2002 - Refactoring: Improving the Design of Existing Code by Martin 
+* "2002 - Refactoring: Improving the Design of Existing Code by Martin 
 Fowler, Kent Beck (Contributor), John Brant (Contributor), William 
-Opdyke, don Roberts".]
+Opdyke, don Roberts".

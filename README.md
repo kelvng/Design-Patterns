@@ -11,4 +11,5 @@
 * [C#](https://github.com/nthanhkhang/Design-Pattern/tree/main/0%20-%20src%20-%20C%23)
 # Reference
 [Head First Design Patterns](https://github.com/nthanhkhang/Design-Pattern/blob/main/Head%20First%20Design%20Patterns%20(%20PDFDrive%20).pdf)
- 
+[Refactoring.Guru](https://refactoring.guru/design-patterns)
+[refactoring_guru](https://github.com/nthanhkhang/Design-Patterns/tree/main/0%20-%20refactoring_guru%20-%20Java)

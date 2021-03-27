@@ -1,4 +1,7 @@
 # Design Pattern
+
+It contains Java examples for all classic GoF design patterns.
+
 ## Table of contents
 * [Singleton Patterns](https://github.com/nthanhkhang/Design-Pattern/tree/main/1%20-%20Singleton)
 * [Strategy Patterns](https://github.com/nthanhkhang/Design-Pattern/tree/main/2%20-%20Strategy)

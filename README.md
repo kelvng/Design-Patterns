@@ -8,6 +8,20 @@
 * [Command Pattern (cont.)](https://github.com/nthanhkhang/Design-Patterns/tree/main/7%20-%20Command%20Pattern%20(cont.))
 * [Contact list java](https://github.com/nthanhkhang/Design-Patterns/tree/main/Contact%20list%20java)
 * [Simplifying Method Calls](https://github.com/nthanhkhang/Design-Patterns/tree/main/Simplifying%20Method%20Calls)
+## Requirements
+
+The examples were written in Java 8, but also tested in Java 9.
+
+For the best experience, we recommend working with examples in IntelliJ IDEA. The Community Edition of IDE is available for free (https://www.jetbrains.com/idea/download/).
+
+After downloading or cloning this repository to your computer, import its root directory into a New project:
+
+- Either through start dialog: Select "Import Project" option and skip through the rest of the steps.
+
+- Or via the main menu: File > New > Project from Existing Sources...
+
+After importing the project, you will be able to run examples by right-clicking "Demo" files inside every example and selecting the "Run" command from the context menu.
+
 ## Head First Design Patterns Code Examples
 * [Java](https://github.com/nthanhkhang/Design-Pattern/tree/main/0%20-%20src%20-%20Java/headfirst/designpatterns)
 * [C#](https://github.com/nthanhkhang/Design-Pattern/tree/main/0%20-%20src%20-%20C%23)

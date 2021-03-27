@@ -16,7 +16,7 @@ An analogy to an algorithm is a cooking recipe: both have clear steps to achieve
 * [Command Pattern](https://github.com/nthanhkhang/Design-Patterns/tree/main/6%20-%20Command%20Pattern)
 * [Command Pattern (cont.)](https://github.com/nthanhkhang/Design-Patterns/tree/main/7%20-%20Command%20Pattern%20(cont.))
 * [Contact list java](https://github.com/nthanhkhang/Design-Patterns/tree/main/Contact%20list%20java)
-* [Simplifying Method Calls](https://github.com/nthanhkhang/Design-Patterns/tree/main/Simplifying%20Method%20Calls)
+* [Simplifying Method Calls](https://github.com/nthanhkhang/Design-Patterns/blob/main/Simplifying%20Method%20Calls/Design-Pattern.pdf)
 ## Requirements
 
 The examples were written in Java 8, but also tested in Java 9.

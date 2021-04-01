@@ -1,0 +1,8 @@
+package bai1.dp;
+
+public interface IcomplexFTP {
+
+	void sendMessages(String[] message);
+	void connect();
+	String[] getDirs();
+}

@@ -1,0 +1,9 @@
+package dp;
+
+public class ZipLogger extends LoggerDecorator{
+	
+	public ZipLogger(Logger logger) {
+		super(logger);
+		
+	}
+}

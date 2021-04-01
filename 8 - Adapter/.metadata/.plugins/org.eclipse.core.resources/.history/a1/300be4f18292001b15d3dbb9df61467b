@@ -1,0 +1,6 @@
+package bai1.dp;
+
+public class FTPAdapter : ISimpleFTP {
+
+	private IComplexFTP complexFTP;
+}

@@ -1,0 +1,5 @@
+package design.adapter.extra;
+
+public class GeometricShape {
+
+}

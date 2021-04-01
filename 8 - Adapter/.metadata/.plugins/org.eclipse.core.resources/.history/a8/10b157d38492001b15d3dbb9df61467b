@@ -1,0 +1,11 @@
+package bai1.dp;
+
+public class MyApp {
+
+	ISimpleFTP ftp;
+	public void setFTP();
+	public doSomething() {
+		ftp.connectServer();
+		ftp.sendMsg("abc");
+	}
+}

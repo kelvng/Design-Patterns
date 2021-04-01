@@ -1,0 +1,17 @@
+package dp;
+
+public class ZipLogger extends LoggerDecorator{
+	
+	public ZipLogger(Logger logger) {
+		super(logger);
+		
+	}
+	
+	@Override
+	public void log(String msg) {
+		// TODO Auto-generated method stub
+		System.out.print("Zip Logger Decorator" + msg);
+		
+		this.logger.log(msg);
+	}
+}

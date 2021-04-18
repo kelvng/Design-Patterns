@@ -1,0 +1,9 @@
+package dp;
+
+public class Post {
+
+	private String title;
+	private String content;
+	//getter, setter, constructor below
+	...
+}

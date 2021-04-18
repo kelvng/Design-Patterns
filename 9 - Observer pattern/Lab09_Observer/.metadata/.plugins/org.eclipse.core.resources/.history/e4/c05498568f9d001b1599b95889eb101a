@@ -1,0 +1,16 @@
+package agency;
+
+public class AgencyMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		ONewsAgency observable = new ONewsAgency();
+		ONewsChannel observer = new ONewsChannel();
+
+		observable.addObserver(observer);
+		observable.setNews("news");
+		assertEquals(observer.getNews(), "news");
+	}
+
+}

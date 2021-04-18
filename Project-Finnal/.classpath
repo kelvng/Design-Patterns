@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Design-Patterns-master/src/main/java"/>
+	<classpathentry kind="src" path="Design-Patterns-master/src/test/java"/>
+	<classpathentry kind="src" path="Source/Design-Patterns-master/src/main/java"/>
+	<classpathentry kind="src" path="Source/Design-Patterns-master/src/test/java"/>
+	<classpathentry kind="src" path="Source/tdtu.dp/src"/>
+	<classpathentry kind="output" path="Source/Design-Patterns-master/target/classes"/>
+</classpath>

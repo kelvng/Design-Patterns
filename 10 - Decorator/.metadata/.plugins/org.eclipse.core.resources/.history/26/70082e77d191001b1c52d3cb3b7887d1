@@ -1,0 +1,18 @@
+package dp;
+
+public class LoggerDecorator extends Logger{
+
+	private Logger logger;
+	
+	public loggerDecorator(Logger logger) {
+		this.logger = logger;
+	}
+	@Override
+	public void log(String msg) {
+		// TODO Auto-generated method stub
+		System.out.print("Logger Decorator" + msg);
+		
+		this.logger.log(msg);
+	}
+
+}

@@ -1,0 +1,10 @@
+package MVC;
+
+public class Celebrity {
+
+	private String celebrityName;  //name of the celebrity
+	private ArrayList<Observer> followers;  //list of followers
+	public Celebrity(String celebrityName) {
+	this.celebrityName = celebrityName;
+	followers = new ArrayList<Observer>();
+}

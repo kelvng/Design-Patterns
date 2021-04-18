@@ -1,0 +1,11 @@
+package dp;
+
+public class DefaultLogger extends Logger{
+
+	@Override
+	public void log(String msg) {
+		// TODO Auto-generated method stub
+		System.out.print("Zip Logger Decorator" + msg);
+	}
+	
+}

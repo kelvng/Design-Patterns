@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\nguyn\OneDrive - Office 365\Design-Pattern\Design-Patterns-master\.metadata\.plugins\org.eclipse.jdt.core
+3460880079.index
+221181532.index
+2267092529.index
+2150545276.index
+1241712971.index
+2152739546.index
+2029207580.index
+3930875329.index

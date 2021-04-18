@@ -1,0 +1,14 @@
+@startuml
+
+interface MessageOfTheDay {
+    String getMessage()
+}
+
+class SimpleMessageOfTheDay
+
+class CustomerMessageOfTheDay
+
+SimpleMessageOfTheDay ..|> MessageOfTheDay
+CustomerMessageOfTheDay ..|> MessageOfTheDay
+
+@enduml

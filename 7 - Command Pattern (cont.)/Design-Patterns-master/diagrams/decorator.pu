@@ -1,0 +1,32 @@
+@startuml
+note "Component" as N1
+note "ConcreteComponent" as N2
+note "Decorators" as N3
+
+interface WordsOfWisdom {
+    String getMessage()
+}
+
+class RandomWordsOfWisdom {
+    +getMessage():String
+}
+
+class QuotedWordsOfWisdom {
+    WordsOfWisdom wordsOfWisdom
+    +getMessage():String
+}
+
+class MessageOfTheDay {
+    WordsOfWisdom wordsOfWisdom
+    +getMessage():String
+}
+
+RandomWordsOfWisdom ..|> WordsOfWisdom
+QuotedWordsOfWisdom ..|> WordsOfWisdom
+MessageOfTheDay ..|> WordsOfWisdom
+
+N1 .. WordsOfWisdom
+N2 .. RandomWordsOfWisdom
+N3 .. QuotedWordsOfWisdom
+N3 .. MessageOfTheDay
+@enduml
